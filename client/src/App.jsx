@@ -39,14 +39,15 @@ const Nav = styled.nav`
 `
 
 const SOURCES = [
-  { name: 'TIMIT', source: '' },
-  { name: 'LibriSpeech', source: '' },
-  { name: 'TED-LIUM', source: '' },
-  { name: 'WSJ', source: '' },
-  { name: 'Rich Transcriptions', source: '' },
-  { name: 'CHiME', source: '' },
-  { name: 'SwitchBoard / Hub5\'00', source: '' },
-  { name: 'Mozilla Common Voice', source: '' },
+  { name: 'TIMIT', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/TIMIT.md' },
+  { name: 'LibriSpeech', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/Librispeech.md' },
+  { name: 'TED-LIUM', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/TED-LIUM.md' },
+  { name: 'WSJ', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/WSJ.md' },
+  { name: 'Rich Transcriptions', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/Rich-Transcriptions.md' },
+  { name: 'Fisher', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/Fisher.md' },
+  { name: 'CHiME', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/CHiME.md' },
+  { name: 'SwitchBoard / Hub5\'00', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/Hub500.md' },
+  { name: 'Mozilla Common Voice', source: 'https://raw.githubusercontent.com/zcaceres/speechsota.ai/master/docs/Mozilla-Common-Voice.md' },
 ]
 
 
