@@ -1,0 +1,14 @@
+:root {
+  --greyish: rgb(44, 42, 43);
+  --shadow: #455b63;
+}
+@media(max-width: 576px) {
+  :root {
+    font-size: 8px;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
